@@ -1,4 +1,4 @@
-# Vecchio Restaurant Hi-Fi React Prototype
+# Vecchio Restaurant 
 
 A mobile-first React prototype for 6012CEM CW2 usability testing.
 
